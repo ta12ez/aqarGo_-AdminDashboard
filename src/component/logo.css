@@ -1,0 +1,29 @@
+
+
+.logo{
+    line-height: 1;
+}
+
+@media(min-width:1200px){
+    .logo{
+        width: 280px;
+    }
+}
+
+.logo img{
+    max-height: 26px;
+    margin-right: 6px;
+}
+
+.logo span{
+    font-size: 26px;
+    font-weight: 700;
+    color: #234F68;
+    font-family: 'Nunito',sans-serif;
+}
+
+.logo-icon{
+    color: #234F68;
+    font-size:x-large;
+    margin-left: 20px;
+}

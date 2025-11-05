@@ -1,0 +1,11 @@
+
+.pagetitle{
+    margin-bottom: 24px;
+}
+
+.pagetitle h2{
+    font-size: 24px;
+    margin-bottom: 0;
+    font-weight: 600;
+    color: #012970;
+}
