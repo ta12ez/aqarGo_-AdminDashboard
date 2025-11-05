@@ -7,7 +7,7 @@ The dashboard provides administrators with full control over properties, users, 
 
 ---
 
-## 🧩 Key Features
+##  Key Features
 - Manage and monitor **users, offices, and properties** in real time.  
 - **Approve or reject** property requests submitted by users.  
 - Track **subscriptions, payments, and points** used by offices.  
@@ -18,7 +18,7 @@ The dashboard provides administrators with full control over properties, users, 
 
 ---
 
-## 🧠 Tech Stack / Libraries
+##  Tech Stack / Libraries
 - **Framework:** React (v19)  
 - **Routing:** React Router DOM (v7)  
 - **UI & Styling:** Bootstrap 5, Remix Icons, Bootstrap Icons  
@@ -28,7 +28,7 @@ The dashboard provides administrators with full control over properties, users, 
 
 ---
 
-## ⚙️ Project Overview
+##  Project Overview
 This dashboard complements the AqarGo mobile apps by serving as the **central administrative control panel** — allowing system administrators to manage:
 - Property listings and verification  
 - Office subscriptions and payments  
@@ -37,7 +37,7 @@ This dashboard complements the AqarGo mobile apps by serving as the **central ad
 
 ---
 
-## 🖥️ Design Highlights
+##  Design Highlights
 - Clean and intuitive UI with **visual hierarchy** for data clarity.  
 - Organized dashboard sections for **analytics, management, and configuration**.  
 - Consistent use of icons, typography, and spacing for a professional look.  
@@ -45,7 +45,7 @@ This dashboard complements the AqarGo mobile apps by serving as the **central ad
 
 ---
 
-## 🔗 Related Projects
+##  Related Projects
 - **User App (Flutter):** [github.com/ta12ez/aqar_user_app](https://github.com/ta12ez/aqarGo_use.git)  
 - **Office App (Flutter):** [github.com/ta12ez/aqar_office_app](https://github.com/ta12ez/aqarGo_captine.git)  
 
