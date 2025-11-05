@@ -7,7 +7,7 @@ The dashboard provides essential tools for handling users, offices, properties, 
 
 ---
 
-## 🧩 Key Features
+##  Key Features
 - Manage **users, offices, and properties** in one place.  
 - View system **statistics and earnings reports**.  
 - **Approve, reject, or delete** property listings and user requests.  
@@ -17,7 +17,7 @@ The dashboard provides essential tools for handling users, offices, properties, 
 
 ---
 
-## 🧠 Tech Stack / Libraries
+##  Tech Stack / Libraries
 - **Framework:** React (v19)  
 - **Routing:** React Router DOM (v7)  
 - **UI & Styling:** Bootstrap 5, Remix Icons, Bootstrap Icons  
@@ -27,14 +27,14 @@ The dashboard provides essential tools for handling users, offices, properties, 
 
 ---
 
-## ⚙️ Overview
+##  Overview
 This dashboard serves as the **administrative panel** for the AqarGo system.  
 It helps the admin manage content, oversee office and user activity, and keep track of earnings and payments in real time.  
 The interface focuses on **clarity, speed, and reliability**, ensuring smooth workflow for daily management tasks.
 
 ---
 
-## 🔗 Related Projects
+##  Related Projects
 - **User App (Flutter):** [github.com/ta12ez/aqarGo_use](https://github.com/ta12ez/aqarGo_use.git)  
 - **Office App (Flutter):** [github.com/ta12ez/aqarGo_captine](https://github.com/ta12ez/aqarGo_captine.git)
 
